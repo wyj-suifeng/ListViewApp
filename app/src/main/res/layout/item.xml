@@ -5,7 +5,7 @@
 
     <TextView
         android:id="@+id/txtProduct"
-        android:textSize="25dp"
+        android:textSize="35dp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
 
@@ -13,14 +13,14 @@
         android:id="@+id/txtPrice"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:gravity="center_horizontal"
+        android:gravity="center_vertical"
         />
 
     <TextView
         android:id="@+id/txtConfiguration"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:gravity="center_horizontal"
+        android:gravity="center_vertical"
         />
 
 
